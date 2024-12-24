@@ -86,14 +86,14 @@ python login.py
 ## 📅 Screenshots
 
 ### 🔐 Login Page
-![Login Page](assets/screenshots/login.png)
+![Login Page](https://github.com/sameeran4218/Student-Management-System/blob/main/Student%20Management%20System/assets/screenshots/login.png)
 
 ### 🏛️ Home
 ![Home](https://github.com/sameeran4218/Student-Management-System/blob/main/Student%20Management%20System/assets/screenshots/home.png)
 
 ### 📄 CSV Export Example
 Exported CSV files can be opened in Excel or other spreadsheet tools:
-![CSV Export](assets/screenshots/data.png)
+![CSV Export](https://github.com/sameeran4218/Student-Management-System/blob/main/Student%20Management%20System/assets/screenshots/data.png)
 
 
 
