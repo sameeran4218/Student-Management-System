@@ -1,7 +1,7 @@
 # config.py
 LOGIN_USERNAME="Sameeran"
-LOGIN_PASSWORD="4218"
+LOGIN_PASSWORD="xxxx"
 MYSQL_HOST = "localhost"
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "Starboy@11"
+MYSQL_PASSWORD = "xxxxx"
 MYSQL_DATABASE = "student_management"
