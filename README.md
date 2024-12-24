@@ -88,33 +88,14 @@ python login.py
 ### 🔐 Login Page
 ![Login Page](assets/screenshots/login.png)
 
-### 🏛️ Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-
-### 🔍 Search Students
-![Search Students](assets/screenshots/search.png)
-
-### 🔄 Update Students
-![Update Students](assets/screenshots/update.png)
+### 🏛️ Home
+![Home](assets/screenshots/home.png)
 
 ### 📄 CSV Export Example
 Exported CSV files can be opened in Excel or other spreadsheet tools:
-![CSV Export](assets/screenshots/csv-export.png)
+![CSV Export](assets/screenshots/data.png)
 
----
 
-## 📄 Project Structure
-```
-student-management-system/
-|├── assets/
-|   |├── bg-login.jpg
-|   |├── bg-logo.png
-|   |├── screenshots/
-|├── login.py
-|├── sms.py
-|├── config.py
-|└── README.md
-```
 
 ## 💡 Key Learnings
 - **Database Management**: Implemented CRUD operations with MySQL.
