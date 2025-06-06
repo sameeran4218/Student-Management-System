@@ -48,20 +48,18 @@ graph TD
     B --> C[📚 Course Management]
     B --> D[👨‍🎓 Student Management]
     B --> E[📊 Result Management]
-    B --> F[📈 Report Generation]
+    B --> F[📈 View Student Reports]
     
     C --> G[(SQLite Database)]
     D --> G
     E --> G
     F --> G
     
-    G --> H[📊 Real-time Statistics]
     H --> B
     
     C --> I[✏️ Add/Edit/Delete Courses]
     D --> J[✏️ Add/Edit/Delete Students]
     E --> K[✏️ Add/Edit/Delete Results]
-    F --> L[📄 Generate Reports]
 ```
 
 ## 🔄 Application Workflow
