@@ -1,7 +1,7 @@
 # 🎓 Student Management System
 
 <div align="center">
-
+![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-orange.svg)
@@ -23,13 +23,15 @@
 
 ## 🖼️ Screenshots
 
+![Screenshot 2025-06-06 202737](https://github.com/user-attachments/assets/14ab853b-97fc-4b96-b75d-f7eb4f38c4b8)
 ![Screenshot 2025-06-06 202655](https://github.com/user-attachments/assets/9f883308-cda4-432e-919e-ac859b1f549d)
+![Screenshot 2025-06-06 203110](https://github.com/user-attachments/assets/b5a99a42-222e-4d45-a7d5-37729732f4df)
 ![Screenshot 2025-06-06 203235](https://github.com/user-attachments/assets/2506b1dc-41a2-4026-ba02-b314ed026680)
 ![Screenshot 2025-06-06 203221](https://github.com/user-attachments/assets/aa7e798c-c065-49fe-82e3-410b8b599d91)
 ![Screenshot 2025-06-06 203204](https://github.com/user-attachments/assets/4308697d-f17b-4188-87fe-46491c94037e)
 ![Screenshot 2025-06-06 203149](https://github.com/user-attachments/assets/a163899f-8e20-4fc2-a077-bd4775d85401)
-![Screenshot 2025-06-06 203110](https://github.com/user-attachments/assets/b5a99a42-222e-4d45-a7d5-37729732f4df)
-![Screenshot 2025-06-06 202737](https://github.com/user-attachments/assets/14ab853b-97fc-4b96-b75d-f7eb4f38c4b8)
+
+
 
 
 
