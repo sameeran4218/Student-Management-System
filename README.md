@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 *A comprehensive desktop application for managing student records, courses, and results with an intuitive GUI interface.*
 
@@ -55,8 +54,6 @@ graph TD
     E --> G
     F --> G
     
-    H --> B
-    
     C --> I[✏️ Add/Edit/Delete Courses]
     D --> J[✏️ Add/Edit/Delete Students]
     E --> K[✏️ Add/Edit/Delete Results]
@@ -67,8 +64,13 @@ graph TD
 ```mermaid
 flowchart LR
     START([🚀 Start Application]) --> LOGIN[🔐 Login Screen]
-    LOGIN --> |Valid Credentials| DASHBOARD[🏠 Main Dashboard]
-    LOGIN --> |Invalid| LOGIN
+    LOGIN --> |New User?| REGISTER[📝 Register Screen]
+    REGISTER --> |Account Created| LOGIN
+    REGISTER --> |Cancel| LOGIN
+
+    LOGIN --> |Forgot Password?| FORGOT[🔑 Forgot Password]
+    FORGOT --> |Reset Link Sent| LOGIN
+    FORGOT --> |Cancel| LOGIN
     
     DASHBOARD --> COURSE[📚 Course Tab]
     DASHBOARD --> STUDENT[👨‍🎓 Student Tab]
@@ -79,11 +81,15 @@ flowchart LR
     STUDENT --> |CRUD Operations| DB
     RESULT --> |CRUD Operations| DB
     REPORT --> |Read Operations| DB
+
+    REGISTER --> |Store User Data| DB
+    FORGOT --> |Verify User| DB
     
     DB --> UPDATE[🔄 Update Statistics]
     UPDATE --> DASHBOARD
     
     DASHBOARD --> LOGOUT[🚪 Logout]
+    LOGOUT --> LOGIN
     LOGOUT --> END([🔚 End])
 ```
 
