@@ -1,7 +1,8 @@
 # 🎓 Student Management System
 
 <div align="center">
-[![YouTube Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/watch?v=YOUR_VIDEO_ID)
+
+[![YouTube Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/bkIZAAl0F1Y)
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-orange.svg)
