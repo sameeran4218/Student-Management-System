@@ -69,7 +69,7 @@ flowchart LR
     REGISTER --> |Cancel| LOGIN
 
     LOGIN --> |Forgot Password?| FORGOT[🔑 Forgot Password]
-    FORGOT --> |Reset Link Sent| LOGIN
+    FORGOT --> |Reset Password| LOGIN
     FORGOT --> |Cancel| LOGIN
     
     DASHBOARD --> COURSE[📚 Course Tab]
