@@ -7,7 +7,7 @@
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-orange.svg)
 
-*A comprehensive desktop application for managing student records, courses, and results with an intuitive GUI interface.*
+*A comprehensive desktop application for managing student records, courses, and results with a beautiful GUI interface.*
 
 </div>
 
