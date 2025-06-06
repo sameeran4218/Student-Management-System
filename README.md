@@ -190,17 +190,6 @@ pip install -r requirements.txt
 # Start with login screen
 python login.py
 
-# Or run main dashboard directly (if authentication is bypassed)
-python main.py
-```
-
-## 📦 Dependencies
-
-```txt
-tkinter          # GUI framework (built-in with Python)
-Pillow>=8.0.0   # Image processing library
-sqlite3         # Database (built-in with Python)
-os              # Operating system interface (built-in)
 ```
 
 
