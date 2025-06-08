@@ -16,11 +16,9 @@
 - 🏫 **Course Management** - Add, edit, and delete courses
 - 👨‍🎓 **Student Management** - Comprehensive student record handling
 - 📊 **Result Management** - Track and manage student results
-- 📈 **Reporting System** - Generate detailed reports and analytics
 - 🔐 **User Authentication** - Secure login system
 - 📱 **Responsive GUI** - Clean and intuitive user interface
 - 💾 **Database Integration** - Efficient SQLite database operations
-- 🔄 **Real-time Updates** - Live count updates for records
 
 ## 🖼️ Screenshots
 
